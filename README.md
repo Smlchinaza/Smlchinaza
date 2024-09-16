@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chukwuemeka Samuel</h1>
+<h3 align="center">An ALX Cohort 18 Software Engineering Graduate</h3>
 <h3 align="center">A passionate frontend and blockchain developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smlchinaza&label=Profile%20views&color=0e75b6&style=flat" alt="smlchinaza" /> </p>

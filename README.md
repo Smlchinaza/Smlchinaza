@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chukwuemeka Samuel</h1>
 <h3 align="center">An ALX Cohort 18 Software Engineering Graduate</h3>
-<h3 align="center">A passionate frontend and blockchain developer from Nigeria</h3>
+<h3 align="center">I'm a passionate frontend developer with a keen eye for detail and a love for crafting beautiful, user-friendly interfaces. With a strong foundation, I'm proficient in creating responsive and interactive web applications. I'm always eager to learn new technologies and stay updated with the latest trends in web development.</h3>
+<h3 align="center">My focus lies in building intuitive user experiences that seamlessly blend aesthetics and functionality. I thrive on challenges and enjoy collaborating with cross-functional teams to deliver exceptional digital products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smlchinaza&label=Profile%20views&color=0e75b6&style=flat" alt="smlchinaza" /> </p>
 
